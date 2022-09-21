@@ -1,0 +1,7 @@
+age = 16
+average_grade = 7
+
+if average_grade < 6:
+    print('Sorry, not accepted!')
+else:
+    print('Congratulations, you are accepted!')
